@@ -61,7 +61,10 @@
       "^https:\\/\\/github\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$",
-      "^https:\\/\\/[^/]*\\.box\\.com(/.*)?$"
+      "^https:\\/\\/[^/]*\\.box\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.fusefinance\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.schwabinstitutional\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.ciamlogin\\.com(/.*)?$"
     ],
     "context_indicators": {
       "description": "Additional context that indicates legitimate discussion vs phishing",
