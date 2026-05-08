@@ -61,6 +61,8 @@
       "^https:\\/\\/github\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.github\\.io(/.*)?$",
+      "^https:\\/\\/[^/]*\\.app\\.box\\.com(/.*)?$",
+      "^https:\\/\\/[^/]*\\.box\\.com(/.*)?$",
       "^([^/.]+\\.)*box\\.com",
       "^https:\\/\\/[^/]*\\.fusefinance\\.com(/.*)?$",
       "^https:\\/\\/[^/]*\\.schwabinstitutional\\.com(/.*)?$",
